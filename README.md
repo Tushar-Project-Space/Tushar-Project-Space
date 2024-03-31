@@ -12,7 +12,7 @@ Portfolio [(https://myportfolio1099.netlify.app/)]
 
 ### Connect with me :
 
-
+### LinkedIn : [(https://cutt.ly/9wWh1uLm)]
 
 
 
