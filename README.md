@@ -4,9 +4,10 @@
 
 🌱 I’m currently learning MERN Stack
 
-💬 Ask me about **react, node.js , express.js , javascript**
+💬 Ask me about **react, react-redux, node.js, Next.js, javascript**
 
 📫 How to reach me tushartm09@gmail.com
+                    9503179707
 
 Portfolio [(https://myportfolio1099.netlify.app/)]
 
