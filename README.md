@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar More</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-project-space" alt="tushar-project-space" /></a> </p>
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio1099.netlify.app/](https://myportfolio1099.netlify.app/)
