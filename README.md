@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfolio1099.netlify.app/](https://myportfolio1099.netlify.app/)
 
-- 💬 Ask me about **React.js react-redux node.js javascript Next.js**
+- 💬 Ask me about **React.js, react-redux, node.js, javascript, Next.js**
 
 - 📫 How to reach me **tushartm09@gmail.com**
 
